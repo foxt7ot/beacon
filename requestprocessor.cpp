@@ -47,7 +47,7 @@ void RequestProcessor::disconnected()
     exit(0);
 }
 
-QString RequestProcessor::parseRequest(QString request){
+/*QString RequestProcessor::parseRequest(QString request){
     if(request.startsWith(GlobalResources::beginingWith)!=1){
         return "Invalid request";
     }else if(request.endsWith(GlobalResources::endingWith)!=1){
@@ -89,4 +89,4 @@ QString RequestProcessor::checkRequestType(){
         }
     }
     return "otherRequest";
-}
+}*/
