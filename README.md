@@ -21,4 +21,4 @@ If you find any issue please open a
 
 Released under WTFPL License
 
-####### ![alt tag](https://raw.githubusercontent.com/foxt7ot/beacon/master/copyLeft.png) Copyleft: [foxt7ot](https://github.com/foxt7ot) — All Wrongs Preserved
+###### ![alt tag](https://raw.githubusercontent.com/foxt7ot/beacon/master/copyLeft.png) Copyleft: [foxt7ot](https://twitter.com/foxt7ot) — All Wrongs Preserved
