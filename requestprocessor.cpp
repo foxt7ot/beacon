@@ -31,7 +31,8 @@ void RequestProcessor::readyRead()
     cout<<"*******"+request.toStdString()<<endl;
 // code to process request over here
 
-    response = parseRequest(request);
+//    response = parseRequest(request);//commented code to process request for gen project(incomplete)
+    response = "Response send";
 //    cout<<"readyRead executed"<<endl;
 
     emit echo(QString("Received : ")+QString(request));
