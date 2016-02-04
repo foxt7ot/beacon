@@ -16,4 +16,7 @@ So you want to contribute to the code. :+1: Please follow below steps
 
 >Soon I will add app exe file in the repo
 
+If you find any issue please open a
 **Happy Coding!** For any further queries contact the [author](mailto:myaseen.khan@hotmail.com)
+
+### ![alt tag](https://raw.githubusercontent.com/foxt7ot/beacon/master/copyleft.PNG) Copyleft: [foxt7ot](https://github.com/foxt7ot) — All Wrongs Preserved 
