@@ -16,7 +16,8 @@ So you want to contribute to the code. :+1: Please follow below steps
 
 >Soon I will add app exe file in the repo
 
-If you find any issue please open a
+If you find any issue please open a [issue request](https://github.com/foxt7ot/beacon/issues/new)
+
 **Happy Coding!** For any further queries contact the [author](mailto:myaseen.khan@hotmail.com)
 
 Released under WTFPL License
