@@ -20,6 +20,6 @@ If you find any issue please open a [issue request](https://github.com/foxt7ot/b
 
 **Happy Coding!** For any further queries contact the [author](mailto:myaseen.khan@hotmail.com)
 
-Released under WTFPL License
+Released under [WTFPL License](https://github.com/foxt7ot/beacon/blob/master/LICENSE.md)
 
 ###### ![alt tag](https://raw.githubusercontent.com/foxt7ot/beacon/master/copyLeft.png) Copyleft: [foxt7ot](https://twitter.com/foxt7ot) — All Wrongs Preserved
